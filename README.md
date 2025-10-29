@@ -20,4 +20,3 @@ A Next.js API that extracts text from PDF files (including scanned images) using
 
 #### Ubuntu/Debian:
 ```bash
-sudo apt-get install poppler-utils

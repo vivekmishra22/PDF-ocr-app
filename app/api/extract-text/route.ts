@@ -73,8 +73,6 @@ export async function GET() {
     note: 'Works best with text-based PDFs (not scanned images)'
   });
 }
-// note: 'Works best with text-based PDFs (not scanned images)'
-// }
 
 
 // import { NextRequest } from 'next/server';
