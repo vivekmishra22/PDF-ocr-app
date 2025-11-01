@@ -122,7 +122,6 @@ export default function Home() {
           <div className="p-6">
             <pre className="whitespace-pre-wrap text-sm text-gray-700 max-h-96 overflow-y-auto bg-gray-50 p-4 rounded border">
               {result.text || 'No text could be extracted'}
-              {/* {result.text || 'No text could be extracted'} */}
             </pre>
           </div>
         </div>
