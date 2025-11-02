@@ -117,6 +117,7 @@ export default function Home() {
           <div className="px-6 py-4 bg-gray-50 border-b">
             <h2 className="text-xl font-semibold text-gray-800">
               Extracted Text ({result.pages} pages)
+              {/* Extracted Text ({result.pages} pages) */}
             </h2>
           </div>
           <div className="p-6">
